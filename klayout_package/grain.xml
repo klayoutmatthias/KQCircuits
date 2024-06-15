@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <salt-grain>
- <name>KQCircuits</name>
+ <name>TESTONLY_KQCircuits</name>
  <hidden>false</hidden>
- <version>4.8.1</version>
+ <version>99.0.0</version>
  <api-version>0.28</api-version>
- <title>KQCircuits</title>
+ <title>TESTONLY_KQCircuits</title>
  <doc>KQCircuits is a KLayout/Python-based superconducting quantum circuit library developed by IQM.</doc>
  <doc-url>https://iqm-finland.github.io/KQCircuits/</doc-url>
  <url>git+https://github.com/iqm-finland/KQCircuits.git+klayout_package[v4.8.1]</url>
